@@ -1,0 +1,2 @@
+import{makeColorSchema as o}from"./index.esm-sEKBhePo.js";import"./index-B2QKvsm8.js";import"./index.esm-DhwY4kHm.js";import"./index.esm-BAN3DaXo.js";import"./index.esm-OIwjBXxl.js";import"./index.esm-COc-PyqV.js";import"./combineLatest-Bzt_9bb6.js";import"./defer-BRewiDsk.js";import"./asap-D-qxMtYG.js";var S=o("#ef962e");export{S as orangeStyle};
+//# sourceMappingURL=orange.style-V24CISE6-DZYucXoY.js.map
